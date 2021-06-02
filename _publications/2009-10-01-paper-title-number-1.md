@@ -12,4 +12,4 @@ A paper where we investigated whether xenoliths and xenocrysts from Kimberley re
 
 [Download paper here](https://doi.org/10.1029/2021GL092570)
 
-Recommended citation: 'Özaydın, Sinan, Selway, Kate, Griffin, William L. (2009). &quot;Are xenoliths from southwestern Kaapvaal Craton representative of the broader mantle? Constraints from magnetotelluric modeling&quot; <i>Geophysical Research Letters</i>. 48.'
+Recommended citation: 'Özaydın, Sinan, Selway, Kate, Griffin, William L. (2021). &quot;Are xenoliths from southwestern Kaapvaal Craton representative of the broader mantle? Constraints from magnetotelluric modeling&quot; <i>Geophysical Research Letters</i>. 48.'

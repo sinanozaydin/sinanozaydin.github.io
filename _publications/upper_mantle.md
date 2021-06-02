@@ -1,7 +1,7 @@
 ---
 title: "Upper Mantle Melt Distribution From Petrologically Constrained Magnetotellurics"
 collection: publications
-permalink: /publication/upper_melt
+permalink: /publication/upper_mantle
 excerpt: 'Paper about the software MATE and intricacies that considered in quantified interpretations of magnetotelluric models of the cratonic mantle.'
 date: 2020-06-13
 venue: 'Geochemistry, Geophysics, Geosystems'

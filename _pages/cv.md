@@ -11,30 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Geophysical Engineering, Istanbul Technical University, 2015
+* M.Sc. in Geophysics, Boğaziçi University, 2017
+* Ph.D in Eath Science, Macquarie University, 2021 (expected)
 
-Work experience
+Languages
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Turkish (Mother-tongue)
+* English (Fluent)
   
-Skills
+Programming Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Matlab
+* Fortran
+* bash
+* LaTeX
+
+MT-Related Programming
+======
+* MT Modelling
+  * ModEM
+  * ws3DInv
+  * Mare2DEM
+  * rjmcmc-mt
+* MT-processing
+  * EMTF
+  * BIRRP
+* Geoscience Related Programs
+  * QGIS
+  * GMT
+  * PerpleX
+  * Paraview
+
+Field Experience
+======
+
+* To be filled up.
 
 Publications
 ======
@@ -48,12 +61,4 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 

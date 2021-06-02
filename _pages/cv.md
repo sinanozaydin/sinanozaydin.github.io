@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. in Geophysical Engineering, Istanbul Technical University, 2015
 * M.Sc. in Geophysics, Boğaziçi University, 2017
-* Ph.D in Eath Science, Macquarie University, 2021 (expected)
+* Ph.D in Earth Sciences, Macquarie University, 2021 (expected)
 
 Languages
 ======
@@ -28,7 +28,7 @@ Programming Skills
 * bash
 * LaTeX
 
-MT-Related Programming
+MT-Related Computer Skills
 ======
 * MT Modelling
   * ModEM

@@ -43,6 +43,7 @@ Computer Skills
   * GMT
   * PerpleX
   * Paraview
+* Linux Proficient
 
 Field Experience
 ======

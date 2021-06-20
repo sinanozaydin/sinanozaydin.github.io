@@ -28,7 +28,7 @@ Programming Skills
 * bash
 * LaTeX
 
-MT-Related Computer Skills
+Computer Skills
 ======
 * MT Modelling
   * ModEM
@@ -47,7 +47,9 @@ MT-Related Computer Skills
 Field Experience
 ======
 
-* To be filled up.
+* Collecting MT Data (AMT, BBMT, LPMT)
+  * Central Anatolia (over 100 stations) - CD-CAT Project (2015-2018).
+  * Greenland Ice Sheet - SUMMAT Project (2018).
 
 Publications
 ======
@@ -55,7 +57,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Selected Talks (First Author Only)
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}

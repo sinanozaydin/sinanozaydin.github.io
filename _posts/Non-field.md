@@ -1,7 +1,7 @@
 ---
 title: 'Non-field specific tools I used during my PhD'
 date: 2021-06-20
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2021/06/Non-field/
 tags:
   - open source programs
   - research tools

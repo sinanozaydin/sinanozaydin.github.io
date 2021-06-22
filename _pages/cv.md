@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A pdf form of the CV can be reached at from <a href="https://sinanozaydin.github.io/files/CV_Sinan_Ozaydin.pdf">HERE</a>.
+
 Education
 ======
 * B.Sc. in Geophysical Engineering, Istanbul Technical University, 2015

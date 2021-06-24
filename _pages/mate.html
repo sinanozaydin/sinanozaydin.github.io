@@ -5,36 +5,8 @@ permalink: /mate/
 author_profile: true
 ---
 
-<img src="https://github.com/sinanozaydin/MATE/blob/master/mate_src/mate_full.png">
-<a href="https://zenodo.org/badge/latestdoi/255912421"><img src="https://zenodo.org/badge/255912421.svg" alt="DOI"></a>
+{% include base_path %}
 
-MATE is an easy-to-use piece of software written in python3 for making interpretations of magnetotelluric models of the mantle. The software does this by combining the information of many high-pressure and temperature experimental studies (e.g., conductivity, hydrogen diffusion, hydration of minerals) for given compositional and thermal profile.
-
-The program is developed in such a way that adding new experimental models to it is a fairly easy process and can be done through adding entries in external csv files and python scripts. 
-
-Who would be interested in using this program?
-- Magnetotelluricists who wants to make interpretations on their models.
-- Petrologists who conduct high-pressure and temperature conductivity and/or hydrogen diffusion studies to make comparisons with real data and other studies.
-
-How to cite
-========== 
-- Özaydın, S., & Selway, K. (2020). MATE: An analysis tool for the interpretation of magnetotelluric models of the mantle. Geochemistry, Geophysics, Geosystems, 21, e2020GC009126. https://doi.org/10.1029/2020GC009126 
-
-Installation
-==========
-
-Copying the files to a directory will do the job. However, the structure of the source folder should not be changed. Exporting the source folder is recommended.
-
-The program could simply run by the command:
-
-
-```bash
-python3 MATE
-```
-
-
-<!-- {% include base_path %} -->
-
-<!-- {% for post in site.mate reversed %}
+{% for post in site.mate reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}

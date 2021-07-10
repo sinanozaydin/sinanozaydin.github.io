@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Sinan Özaydın"
 excerpt: "About me"
 author_profile: true
 header:

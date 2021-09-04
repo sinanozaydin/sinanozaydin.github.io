@@ -1,5 +1,5 @@
 ---
-title: "Laboratory results coded into MATE. (Upcoming)"
+title: "Laboratory results coded into MATE."
 collection: talks
 type: "Oral Presentation, MtNet EM Webinar Series"
 permalink: /talks/eminar2021

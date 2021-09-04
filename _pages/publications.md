@@ -17,6 +17,14 @@ header:
 
 {% include base_path %}
 
+Preprints
+======
+{% for post in site.preprints reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Published Works
+======
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}

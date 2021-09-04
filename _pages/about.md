@@ -6,11 +6,11 @@ author_profile: true
 header:
   overlay_color : "#000"
   overlay_filter: "0.5"
-  overlay_image: banner_about.png
+  overlay_image: banner_about.jpeg
   actions:
   caption: ""
 excerpt: "Earth Scientist"
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---

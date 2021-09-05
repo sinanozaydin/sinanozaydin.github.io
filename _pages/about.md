@@ -28,4 +28,4 @@ Blog Posts
 
 Latest Research
 ======
-include site.preprints.safII.md
+include site.preprints.safII

@@ -17,7 +17,7 @@ redirect_from:
 
 About Me
 ======
-Hello! I am a PhD candidate at Macquarie University. My research focuses on detailed interpretations of magnetotelluric models of the mantle. I do this by utilising the knowledge I acquired from 3D magnetotelluric modelling, experimental petrology and geochemical data.
+Hello! I am Earth scientist at Macquarie University. My research focuses on detailed interpretations of magnetotelluric models of the mantle. I do this by utilising the knowledge I acquired from 3D magnetotelluric modelling, experimental petrology and geochemical data.
 
 Blog Posts
 ======
@@ -28,4 +28,6 @@ Blog Posts
 
 Latest Research
 ======
-include archive-single.html site.preprints.safII.md
+{% for post in site.preprints %}
+  {% include archive-single.html %}
+{% endfor %}

@@ -21,25 +21,25 @@ author_profile: true
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="http://sinanozaydin.github.io/images/Summit_Station.jpeg" class="d-block w-100" alt="...">
+      <img src="/images/Summit_Station.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <p>Summit Station at Greenland Icesheet.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="http://sinanozaydin.github.io/images/plane.jpeg" class="d-block w-100" alt="...">
+      <img src="/images/plane.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <p>Me with the plane we came to Summit Station.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="http://sinanozaydin.github.io/images/sun.jpeg" class="d-block w-100" alt="...">
+      <img src="/images/sun.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <p>The sun that never sets at the summit.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="http://sinanozaydin.github.io/images/deploy1.jpeg" class="d-block w-100" alt="...">
+      <img src="/images/deploy1.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <p>Our means of travel (snowmobiles) along the only sign existed around here.</p>
       </div>

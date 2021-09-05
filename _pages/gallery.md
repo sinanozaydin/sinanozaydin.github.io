@@ -3,13 +3,15 @@ layout: archive
 title: "Gallery"
 header:
   overlay_color : "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.05"
   overlay_image: gallery_banner.jpeg
   actions:
   caption: ""
 permalink: /gallery/
 author_profile: true
 ---
+
+
 
 <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel"
   style="margin-top: 10px; margin-bottom: 10px;">
@@ -21,25 +23,25 @@ author_profile: true
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/Summit_Station.jpeg" class="d-block w-100" alt="...">
+      <img src="/images/greenland/Summit_Station.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <p>Summit Station at Greenland Icesheet.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/images/plane.jpeg" class="d-block w-100" alt="...">
+      <img src="/images/greenland/plane.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <p>Me with the plane we came to Summit Station.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/images/sun.jpeg" class="d-block w-100" alt="...">
+      <img src="/images/greenland/sun.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <p>The sun that never sets at the summit.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/images/deploy1.jpeg" class="d-block w-100" alt="...">
+      <img src="/images/greenland/deploy1.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <p>Our means of travel (snowmobiles) along the only sign existed around here.</p>
       </div>

@@ -25,3 +25,7 @@ Blog Posts
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
+
+Latest Research
+======
+include site.preprints.safII.md

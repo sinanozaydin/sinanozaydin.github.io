@@ -6,6 +6,50 @@ author_profile: true
 header:
   overlay_color : "#000"
   overlay_filter: "0.5"
-  overlay_image: gallery_banner.png
+  overlay_image: gallery_banner.jpeg
   actions:
   caption: ""
+
+  <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel"
+    style="margin-top: 10px; margin-bottom: 10px;">
+    <ol class="carousel-indicators">
+      <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="http://sinanozaydin.github.io/images/Summit_Station.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <p>Summit Station at Greenland Icesheet.</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="http://sinanozaydin.github.io/images/plane.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <p>Me with the plane we came to Summit Station.</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="http://sinanozaydin.github.io/images/sun.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <p>The sun that never sets at the summit.</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="http://sinanozaydin.github.io/images/deploy1.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <p>Our means of travel (snowmobiles) along the only sign around here.</p>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev" data-target="#carouselExampleCaptions" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" data-target="#carouselExampleCaptions" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>

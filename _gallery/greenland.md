@@ -8,7 +8,7 @@ date: 2021-01-01
 location: ""
 ---
 
-I was priviliged to visit Summit Station and join the scientific team led by Kate Selway that made the first magnetotelluric deployments on the Greenland icesheet. Here is a collection of photos that I like to look at occasionaly (from Özaydin & Selway, 2020 - G-Cubed).   
+I was priviliged to visit Summit Station and join the scientific team led by Kate Selway that made the first magnetotelluric deployments on the Greenland icesheet. Here is a collection of photos that I like to look at occasionaly. 
 
 <img src="/images/greenland/Summit_Station.jpeg">
 <p>Main building of the Summit Station.</p>

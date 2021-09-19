@@ -13,15 +13,17 @@ A pdf form of the CV can be reached at from <a href="https://sinanozaydin.github
 
 Education
 ======
-* BS. in Geophysical Engineering, Istanbul Technical University, 2015
+* Ph.D in Geophysics, Macquarie University, 2021
 * M.Sc. in Geophysics, Boğaziçi University, 2017
-* Ph.D in Earth Sciences, Macquarie University, 2021
+* BS. in Geophysical Engineering, Istanbul Technical University, 2015
+
+
 
 Languages
 ======
 * Turkish (Mother-tongue)
 * English (Fluent)
-  
+
 Programming Skills
 ======
 * Python
@@ -59,11 +61,9 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Selected Talks (First Author Only)
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
- 

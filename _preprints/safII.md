@@ -1,7 +1,7 @@
 ---
 title: "Probing the southern African lithosphere with magnetotellurics, Part II, linking electrical conductivity, composition and tectono-magmatic evolution."
 collection: preprints
-permalink: /preprints/safii.md
+permalink: /preprints/safii
 excerpt: 'A comprehensive analysis of the relationship between electrical conductivity, mantle composition and tectonomagmatic history.'
 date: 2021-09-01
 venue: 'Journal of Geophysical Research: Solid Earth'

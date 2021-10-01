@@ -11,6 +11,10 @@ redirect_from:
 
 A pdf form of the CV can be reached at from <a href="https://sinanozaydin.github.io/files/CV_Sinan_Ozaydin.pdf">HERE</a>.
 
+Employment
+======
+* Research Associate, University of South Australia 2021-
+
 Education
 ======
 * Ph.D in Geophysics, Macquarie University, 2021

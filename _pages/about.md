@@ -17,7 +17,7 @@ redirect_from:
 
 About Me
 ======
-Hello! I am an Earth scientist at Macquarie University. My research focuses on detailed interpretations of magnetotelluric models of the mantle. I do this by utilising the knowledge I acquired from 3D magnetotelluric modelling, experimental petrology and geochemical data.
+Hello! I am an Earth scientist currently employed at University of South Australia. My research focuses on detailed interpretations of magnetotelluric models of the mantle. I do this by utilising the knowledge I acquired from 3D magnetotelluric modelling, experimental petrology and geochemical data.
 
 Blog Posts
 ======

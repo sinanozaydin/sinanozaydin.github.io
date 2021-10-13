@@ -24,5 +24,8 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "MT Map"
+    url: /mt_map/
+
 #   - title: "Guide"
 #     url: /markdown/

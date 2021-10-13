@@ -18,6 +18,7 @@ redirect_from:
   * _portfolio/
   * _posts/
   * _mate/
+  * _mt_map/
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/

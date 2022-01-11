@@ -13,52 +13,14 @@ A pdf form of the CV can be reached at from <a href="https://sinanozaydin.github
 
 Employment
 ======
-* Research Associate, University of South Australia 2021-
+* Postdoctoral Research Fellow, Macquarie University 2021-
+* Research Associate, University of South Australia 2021-2022
 
 Education
 ======
-* Ph.D in Geophysics, Macquarie University, 2021
-* M.Sc. in Geophysics, Boğaziçi University, 2017
-* BS. in Geophysical Engineering, Istanbul Technical University, 2015
-
-
-
-Languages
-======
-* Turkish (Mother-tongue)
-* English (Fluent)
-
-Programming Skills
-======
-* Python
-* Matlab
-* Fortran
-* bash
-* LaTeX
-
-Computer Skills
-======
-* MT Modelling
-  * ModEM
-  * ws3DInv
-  * Mare2DEM
-  * rjmcmc-mt
-* MT-processing
-  * EMTF
-  * BIRRP
-* Geoscience Related Programs
-  * QGIS
-  * GMT
-  * PerpleX
-  * Paraview
-* Linux Proficient
-
-Field Experience
-======
-
-* Collecting MT Data (AMT, BBMT, LPMT)
-  * Central Anatolia (over 100 stations) - CD-CAT Project (2015-2018).
-  * Greenland Ice Sheet - SUMMAT Project (2018).
+* PhD in Geophysics, Macquarie University, 2021
+* MSc in Geophysics, Boğaziçi University, 2017
+* BS in Geophysical Engineering, Istanbul Technical University, 2015
 
 Publications
 ======

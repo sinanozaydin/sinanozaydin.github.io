@@ -13,7 +13,8 @@ A pdf form of the CV can be reached at from <a href="https://sinanozaydin.github
 
 Employment
 ======
-* Postdoctoral Research Fellow, Macquarie University 2021-
+* Postdoctoral Research Associate, University of Sydney 2023-
+* Postdoctoral Research Fellow, Macquarie University 2022-2023
 * Research Associate, University of South Australia 2021-2022
 
 Education

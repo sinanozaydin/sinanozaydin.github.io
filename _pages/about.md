@@ -17,7 +17,7 @@ redirect_from:
 
 About Me
 ======
-Hello! I am an Earth scientist currently employed at University of Sydney as a postdoctoral research associate. My research focuses on detailed interpretations of magnetotelluric models of the mantle. I do this by utilising the knowledge I acquired from 3D magnetotelluric modelling, experimental petrology and geochemical data.
+Hello! I am an Earth scientist currently employed at University of Sydney as a postdoctoral research associate. My research targets how the electrical conductivity distribution of the lithosphere, as it is acquired from magnetotelluric models, can be related to tectonic and magmatic processes. I try to do this via quantified interpretations, combining the knowledge from geochemistry, petrology, magnetotellurics and thermomechanical modelling.
 
 Blog Posts
 ======

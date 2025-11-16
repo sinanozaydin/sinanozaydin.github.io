@@ -19,15 +19,8 @@ About Me
 ======
 Hello! I am an Earth scientist currently employed at University of Sydney as a postdoctoral research associate. My research targets how the electrical conductivity distribution of the lithosphere, as it is acquired from magnetotelluric models, can be related to tectonic and magmatic processes. I try to do this via quantified interpretations, combining the knowledge from geochemistry, petrology, magnetotellurics and thermomechanical modelling.
 
-Blog Posts
-======
-
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
 Latest Research
 ======
-{% for post in site.preprints %}
+{% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}

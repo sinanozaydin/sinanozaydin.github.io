@@ -23,7 +23,7 @@ Access the source code from here: <https://github.com/utpal-singh/SAnTex>
     
 Developed by Utpal Singh, <code>SAnTex</code> is a Python library which calculates the full elastic tensor of rocks from modal mineral composition, crystallographic orientation, and a crystal stiffness tensor catalogue that accounts for the dependency of elasticity with pressure and temperature.
   </div>
-  <img src="/images/website_santex.png" alt="Description" style="width: 400px; flex-shrink: 0;">
+  <img src="/images/website_santex.png" alt="Description" style="width: 600px; flex-shrink: 0;">
 </div>
 
 ---
@@ -46,6 +46,8 @@ Access the source code from here: <https://github.com/sinanozaydin/pide>
 ---
 
 14- Manassero, M. C., <u>Özaydın, S.</u>, Afonso, J. C., Shea, J. J., Ezad, I. S., Kirkby, A., ... & Czarnota, K. (2024). Lithospheric structure and melting processes in southeast Australia: new constraints from joint probabilistic inversions of 3D magnetotelluric and seismic data. Journal of Geophysical Research: Solid Earth, 129(3), e2023JB028257, <https://doi.org/10.1029/2023JB028257>.
+
+
 
 ---
 

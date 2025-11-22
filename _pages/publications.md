@@ -16,22 +16,34 @@ Publications
 
 16- Singh, U., <u>Özaydın, S.</u>, Chatzaras, V., & Rey, P. (2025). SAnTex: A Python-based Library for Seismic Anisotropy Calculation. Journal of Open Source Software, 10(110), 6886, <https://doi.org/10.21105/joss.06886>.
 
+Access the source code from here: <https://github.com/utpal-singh/SAnTex>
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <div>
+    
+Developed by Utpal Singh, <code>SAnTex</code> is a Python library which calculates the full elastic tensor of rocks from modal mineral composition, crystallographic orientation, and a crystal stiffness tensor catalogue that accounts for the dependency of elasticity with pressure and temperature.
+  </div>
+  <img src="/images/website_santex.png" alt="Description" style="width: 400px; flex-shrink: 0;">
+</div>
+
 ---
 15- <u>Özaydın, S.</u>, Li, L., Singh, U., Rey, P. F., & Manassero, M. C. (2025). pide: Petrophysical Interpretation tools for geoDynamic Exploration. Journal of Open Source Software, 10(105), 7021 <https://doi.org/10.21105/joss.07021>.
+
+Access the source code from here: <https://github.com/sinanozaydin/pide>
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
   <img src="/images/pide_logo_small.png" alt="Description" style="width: 200px; flex-shrink: 0;">
   <div>
     
-Acess the source code from here: <https://github.com/sinanozaydin/pide>
 
-`pide` is a Python3 library for calculating geophysical parameters (e.g., electrical conductivity, seismic velocity), employing the results from experimental petrology, mineral/rock physics, and thermomechanical modelling studies. `pide` can calculate the theoretical electrical conductivity of any earth material that exists in the literature. `pide` can also calculate seismic velocity utilising the external 'sister' library `santex`. Using these theoretical calculations, users can utilise inversion modules to decode geophysical anomalies compositionally or convert thermomechanical models into geophysical observables. With a given spatial mapping of earth materials, which can preferentially be loaded from a thermomechanical model, `pide`  can be used to build synthetic electrical conductivity and seismic velocity models and generate gravity and magnetic anomalies. Moreover, it is built as a modular tool, so users can easily build their functions.
+
+<code>pide</code> is a Python3 library for calculating geophysical parameters (e.g., electrical conductivity, seismic velocity), employing the results from experimental petrology, mineral/rock physics, and thermomechanical modelling studies. <code>pide</code> can calculate the theoretical electrical conductivity of any earth material that exists in the literature. <code>pide</code> can also calculate seismic velocity utilising the external 'sister' library `santex`. Using these theoretical calculations, users can utilise inversion modules to decode geophysical anomalies compositionally or convert thermomechanical models into geophysical observables. With a given spatial mapping of earth materials, which can preferentially be loaded from a thermomechanical model, <code>pide</code> can be used to build synthetic electrical conductivity and seismic velocity models and generate gravity and magnetic anomalies. Moreover, it is built as a modular tool, so users can easily build their functions.
   </div>
 </div>
 
+<img src="/images/website_pide.png">
 
 ---
-
 
 14- Manassero, M. C., <u>Özaydın, S.</u>, Afonso, J. C., Shea, J. J., Ezad, I. S., Kirkby, A., ... & Czarnota, K. (2024). Lithospheric structure and melting processes in southeast Australia: new constraints from joint probabilistic inversions of 3D magnetotelluric and seismic data. Journal of Geophysical Research: Solid Earth, 129(3), e2023JB028257, <https://doi.org/10.1029/2023JB028257>.
 

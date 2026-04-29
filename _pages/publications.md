@@ -13,7 +13,12 @@ header:
 
 Publications
 ---
+18- Han, Kui, <u>Özaydın, S.</u>, Fei, Hongzhan, Man, Lianjie, Wang, Fei, Chanyshev, Artem, Withers, Anthony C., Grayver, Alexander, Katsura, Tomoo (2026). ``Lower mantle iron heterogeneity indicated by electrical conductivity", \textit{Science Advances}, 12(17), <https://doi.org/10.1126/sciadv.aec7875>.
 
+---
+17- <u>Özaydın, S.</u>, Rey, P., & Chatzaras, V. (2025). Strain controls the electrical conductivity distribution in the lithosphere. Geology, <https://doi.org/10.1130/G53957.1>.
+
+---
 16- Singh, U., <u>Özaydın, S.</u>, Chatzaras, V., & Rey, P. (2025). SAnTex: A Python-based Library for Seismic Anisotropy Calculation. Journal of Open Source Software, 10(110), 6886, <https://doi.org/10.21105/joss.06886>.
 
 Access the source code from here: <https://github.com/utpal-singh/SAnTex>

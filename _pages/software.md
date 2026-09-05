@@ -7,9 +7,9 @@ header:
   overlay_image: banner_2.jpeg
   actions:
   caption: ""
-excerpt: "Mantle MT Interpretation Software"
+excerpt: "Software by Sinan Özaydın"
 permalink: /software/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}

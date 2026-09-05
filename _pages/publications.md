@@ -21,12 +21,11 @@ Publications
 ---
 17- <u>Özaydın, S.</u>, Rey, P., & Chatzaras, V. (2025). Strain controls the electrical conductivity distribution in the lithosphere. Geology, <https://doi.org/10.1130/G53957.1>.
 
-<div style="display: flex; align-items: flex-start; gap: 50px;">
+<div markdown="1" style="display: flex; align-items: flex-start; gap: 50px;">
   <img src="/images/g53957.1_f04.png" alt="Description" style="width: 600px; flex-shrink: 0;">
-  <div>
-    
-We combined 3D tectonic deformation simulations with laboratory rock conductivity measurements to test whether strain controls where conductive anomalies form in the lithosphere. Applying this to a pull-apart basin setting, we found that our synthetic model closely matches real magnetotelluric data from the Marmara Sea in Turkey, a region shaped by the North Anatolian Fault. This agreement suggests that many conductivity anomalies seen deep underground are essentially scars left behind by past deformation, since strain helps fluids and melts connect into conductive networks along fault zones. The work gives geophysicists a physical basis for interpreting these signals, rather than relying on qualitative assumptions about their origin.
+  <div markdown="1">
 
+We combined 3D tectonic deformation simulations with laboratory rock conductivity measurements to test whether strain controls where conductive anomalies form in the lithosphere. Applying this to a pull-apart basin setting, we found that our synthetic model closely matches real magnetotelluric data from the Marmara Sea in Turkey, a region shaped by the North Anatolian Fault. This agreement suggests that many conductivity anomalies seen deep underground are essentially scars left behind by past deformation, since strain helps fluids and melts connect into conductive networks along fault zones. The work gives geophysicists a physical basis for interpreting these signals, rather than relying on qualitative assumptions about their origin.
 
   </div>
 </div>

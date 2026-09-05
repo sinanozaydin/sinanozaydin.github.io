@@ -36,7 +36,7 @@ We combined 3D tectonic deformation simulations with laboratory rock conductivit
 This agreement suggests that many conductivity anomalies seen deep underground are essentially scars left behind by past deformation, since strain helps fluids and melts connect into conductive networks along fault zones. The work gives geophysicists a physical basis for interpreting these signals, rather than relying on qualitative assumptions about their origin.
 
   </div>
-  <img src="/images/g53957.1_f03.png" alt="Description" style="width: 300px; flex-shrink: 0;">
+  <img src="/images/g53957.1_f03.png" alt="Description" style="width: 600px; flex-shrink: 0;">
 </div>
 
 ---

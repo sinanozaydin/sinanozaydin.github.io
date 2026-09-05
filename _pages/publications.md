@@ -13,10 +13,21 @@ header:
 
 Publications
 ---
-19- AlQahtani, Yahya, <u>Özaydın, S.</u>, Chatzaras, Vasileios, Rey, Patrice F., Passos, T. (2025). ``Why Does the Broken Hill Deposit Sit in Resistive Crust? Magnetotelluric Evidence for Metamorphic Decoupling of a World‐Class Mineral System", \textit{Journal of Geophysical Research:Solid Earth}, 131, e2026JB035666. <https://doi.org/10.1029/2026JB035666>.
+19- AlQahtani, Yahya, <u>Özaydın, S.</u>, Chatzaras, Vasileios, Rey, Patrice F., Passos, T. (2025). ``Why Does the Broken Hill Deposit Sit in Resistive Crust? Magnetotelluric Evidence for Metamorphic Decoupling of a World‐Class Mineral System", Journal of Geophysical Research:Solid Earth, 131, e2026JB035666. <https://doi.org/10.1029/2026JB035666>.
 
 ---
-18- Han, Kui, <u>Özaydın, S.</u>, Fei, Hongzhan, Man, Lianjie, Wang, Fei, Chanyshev, Artem, Withers, Anthony C., Grayver, Alexander, Katsura, Tomoo (2026). ``Lower mantle iron heterogeneity indicated by electrical conductivity", \textit{Science Advances}, 12(17), <https://doi.org/10.1126/sciadv.aec7875>.
+18- Han, Kui, <u>Özaydın, S.</u>, Fei, Hongzhan, Man, Lianjie, Wang, Fei, Chanyshev, Artem, Withers, Anthony C., Grayver, Alexander, Katsura, Tomoo (2026). ``Lower mantle iron heterogeneity indicated by electrical conductivity", Science Advances, 12(17), <https://doi.org/10.1126/sciadv.aec7875>.
+
+
+<div markdown="1" style="display: flex; align-items: flex-start; gap: 50px;">
+  <div markdown="1" style="flex: 1;">
+
+We measured how the electrical conductivity of bridgmanite, the most abundant mineral in Earth's lower mantle, changes with iron content and temperature, finding that conductivity rises sharply with more iron while temperature has little effect. Using our petrophysical toolkit pide, we then inverted real geomagnetic observation models directly into estimates of how iron content varies across the lower mantle. This gives us a direct link between the patchy conductivity anomalies long seen in geomagnetic data and actual compositional differences deep inside the Earth, offering a new way to map the chemistry of a region that makes up more than half the planet's volume.
+
+  </div>
+  <img src="/images/sciadv.aec7875-f4.jpg" alt="Description" style="width: 500px; flex-shrink: 0;">
+</div>
+
 
 ---
 17- <u>Özaydın, S.</u>, Rey, P., & Chatzaras, V. (2025). Strain controls the electrical conductivity distribution in the lithosphere. Geology, <https://doi.org/10.1130/G53957.1>.
@@ -36,7 +47,7 @@ We combined 3D tectonic deformation simulations with laboratory rock conductivit
 This agreement suggests that many conductivity anomalies seen deep underground are essentially scars left behind by past deformation, since strain helps fluids and melts connect into conductive networks along fault zones. The work gives geophysicists a physical basis for interpreting these signals, rather than relying on qualitative assumptions about their origin.
 
   </div>
-  <img src="/images/g53957.1_f03.png" alt="Description" style="width: 450px; flex-shrink: 0;">
+  <img src="/images/g53957.1_f03.png" alt="Description" style="width: 500px; flex-shrink: 0;">
 </div>
 
 ---

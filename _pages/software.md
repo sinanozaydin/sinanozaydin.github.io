@@ -18,6 +18,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+Here's a list of the research software I've developed or contributed to, with brief descriptions of each. Please don't hesitate to get in touch if you need help using them or have found a bug.
+
 <img src="/images/pide_logo.png">
 
 <https://github.com/sinanozaydin/pide>

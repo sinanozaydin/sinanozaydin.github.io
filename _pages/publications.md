@@ -25,10 +25,22 @@ Publications
   <img src="/images/g53957.1_f04.png" alt="Description" style="width: 600px; flex-shrink: 0;">
   <div markdown="1">
 
-We combined 3D tectonic deformation simulations with laboratory rock conductivity measurements to test whether strain controls where conductive anomalies form in the lithosphere. Applying this to a pull-apart basin setting, we found that our synthetic model closely matches real magnetotelluric data from the Marmara Sea in Turkey, a region shaped by the North Anatolian Fault. This agreement suggests that many conductivity anomalies seen deep underground are essentially scars left behind by past deformation, since strain helps fluids and melts connect into conductive networks along fault zones. The work gives geophysicists a physical basis for interpreting these signals, rather than relying on qualitative assumptions about their origin.
+We combined 3D tectonic deformation simulations with laboratory rock conductivity measurements to test whether strain controls where conductive anomalies form in the lithosphere. Applying this to a pull-apart basin setting, we found that our synthetic model closely matches real magnetotelluric data from the Marmara Sea in Turkey, a region shaped by the North Anatolian Fault. 
 
   </div>
 </div>
+
+<div markdown="1" style="display: flex; align-items: flex-start; gap: 50px;">
+
+  <div markdown="1">
+
+We combined 3D tectonic deformation simulations with laboratory rock conductivity measurements to test whether strain controls where conductive anomalies form in the lithosphere. Applying this to a pull-apart basin setting, we found that our synthetic model closely matches real magnetotelluric data from the Marmara Sea in Turkey, a region shaped by the North Anatolian Fault. 
+
+  </div>
+    <img src="/images/g53957.1_f04.png" alt="Description" style="width: 600px; flex-shrink: 0;">
+</div>
+
+This agreement suggests that many conductivity anomalies seen deep underground are essentially scars left behind by past deformation, since strain helps fluids and melts connect into conductive networks along fault zones. The work gives geophysicists a physical basis for interpreting these signals, rather than relying on qualitative assumptions about their origin.
 
 ---
 16- Singh, U., <u>Özaydın, S.</u>, Chatzaras, V., & Rey, P. (2025). SAnTex: A Python-based Library for Seismic Anisotropy Calculation. Journal of Open Source Software, 10(110), 6886, <https://doi.org/10.21105/joss.06886>.

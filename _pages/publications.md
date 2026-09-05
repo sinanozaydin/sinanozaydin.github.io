@@ -21,7 +21,7 @@ Publications
 ---
 17- <u>Özaydın, S.</u>, Rey, P., & Chatzaras, V. (2025). Strain controls the electrical conductivity distribution in the lithosphere. Geology, <https://doi.org/10.1130/G53957.1>.
 
-<div style="display: flex; align-items: flex-start; gap: 15px;">
+<div style="display: flex; align-items: flex-start; gap: 500px;">
   <img src="/images/g53957.1_f04.png" alt="Description" style="width: 200px; flex-shrink: 0;">
   <div>
     

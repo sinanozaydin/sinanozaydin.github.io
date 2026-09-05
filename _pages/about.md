@@ -21,4 +21,6 @@ I am an Earth scientist with wide-ranging interests across geology, geophysics, 
 
 Please feel free to get in touch if there's anything you need, whether it's a research question, a potential collaboration, or an issue with one of my software tools.
 
+<img src="/images/website_photos.png">
+
 ---

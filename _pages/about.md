@@ -17,8 +17,8 @@ redirect_from:
 
 About Me
 ======
-I am an Earth scientist and postdoctoral research associate at the University of Sydney. My research focuses on understanding how the electrical conductivity structure of Earth's lithosphere relates to tectonic and magmatic processes. Using magnetotelluric data, I combine insights from petrophysical measurements, geochemistry, petrology, and thermomechanical modelling to develop quantitative interpretations of deep Earth processes.
+I am an Earth scientist with wide-ranging interests across geology, geophysics, petrology and geodynamics. I grew up in Istanbul, and my early curiosity about what lies beneath us eventually took me through Istanbul Technical University and Boğaziçi University, before a PhD in geophysics at Macquarie University and postdoctoral positions across Australia brought me to my current role at the University of Sydney. I'm particularly driven by connecting laboratory measurements, field observations, and computational models to understand how the Earth's composition and deformation history are recorded in the signals we can measure today. Tackling these problems requires working at the interface of several fields at once, so I spend much of my time developing computational tools that link geophysics with petrology, geochemistry, and geodynamics, translating raw geophysical observations into laboratory-calibrated, geologically meaningful models. I believe this understanding matters not only in terms of economic resilience, through sustainable resource discovery and hazard prediction, but also in helping us know our home planet more deeply.
 
-A key component of my work involves developing open-source software tools that bridge the gap between laboratory petrophysical measurements and field observations, enabling more robust and reproducible geophysical interpretations:
+Please feel free to get in touch if there's anything you need, whether it's a research question, a potential collaboration, or an issue with one of my software tools.
 
 ---

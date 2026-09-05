@@ -22,15 +22,3 @@ Education
 * PhD in Geophysics, Macquarie University, 2021
 * MSc in Geophysics, Boğaziçi University, 2017
 * BS in Geophysical Engineering, Istanbul Technical University, 2015
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Selected Talks (First Author Only)
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>

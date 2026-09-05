@@ -13,10 +13,23 @@ header:
 
 Publications
 ---
+19- AlQahtani, Yahya, <u>Özaydın, S.</u>, Chatzaras, Vasileios, Rey, Patrice F., Passos, T. (2025). ``Why Does the Broken Hill Deposit Sit in Resistive Crust? Magnetotelluric Evidence for Metamorphic Decoupling of a World‐Class Mineral System", \textit{Journal of Geophysical Research:Solid Earth}, 131, e2026JB035666. <https://doi.org/10.1029/2026JB035666>.
+
+---
 18- Han, Kui, <u>Özaydın, S.</u>, Fei, Hongzhan, Man, Lianjie, Wang, Fei, Chanyshev, Artem, Withers, Anthony C., Grayver, Alexander, Katsura, Tomoo (2026). ``Lower mantle iron heterogeneity indicated by electrical conductivity", \textit{Science Advances}, 12(17), <https://doi.org/10.1126/sciadv.aec7875>.
 
 ---
 17- <u>Özaydın, S.</u>, Rey, P., & Chatzaras, V. (2025). Strain controls the electrical conductivity distribution in the lithosphere. Geology, <https://doi.org/10.1130/G53957.1>.
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+  <img src="/images/g53957.1_f04.png" alt="Description" style="width: 200px; flex-shrink: 0;">
+  <div>
+    
+We combined 3D tectonic deformation simulations with laboratory rock conductivity measurements to test whether strain controls where conductive anomalies form in the lithosphere. Applying this to a pull-apart basin setting, we found that our synthetic model closely matches real magnetotelluric data from the Marmara Sea in Turkey, a region shaped by the North Anatolian Fault. This agreement suggests that many conductivity anomalies seen deep underground are essentially scars left behind by past deformation, since strain helps fluids and melts connect into conductive networks along fault zones. The work gives geophysicists a physical basis for interpreting these signals, rather than relying on qualitative assumptions about their origin.
+
+
+  </div>
+</div>
 
 ---
 16- Singh, U., <u>Özaydın, S.</u>, Chatzaras, V., & Rey, P. (2025). SAnTex: A Python-based Library for Seismic Anisotropy Calculation. Journal of Open Source Software, 10(110), 6886, <https://doi.org/10.21105/joss.06886>.

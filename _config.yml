@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sinan Özaydın"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sinan Özaydın"
 description              : &description "personal description"
 url                      : https://sinanozaydin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

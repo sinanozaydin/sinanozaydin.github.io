@@ -11,18 +11,21 @@ header:
   caption: ""
 ---
 
-Magnetotelluric models and their quantified interpretations
+Geophysical exploration for critical minerals
 ======
 
-Magnetotellurics is a passive-sourced electromagnetic geophysical method used to map the electrical conductivity variations of the subsurface. Because electrical conductivity is sensitive to the many physical and chemical properties of rock-forming materials, it can be used to decipher the many problems relevant to understanding Earth-systems. These problems can be small-scale engineering problems such as constraining the spatial extents of a geothermal region or lithospheric-scale problems relevant to the nature of plate tectonics.
 
-<img src="/images/conduction.jpeg">
-<p>Depiction of different semi-conduction mechanisms of minerals exist in the mantle.</p>
 
-The electrical conductivity of a medium can differ for many reasons. These can be saline fluids and melts that exist within interconnected fracture zones or intrinsic properties of rocks reflecting certain impurities that carry electrons. All of these processes have different rates of temperature dependencies, which can be altered if the composition of the material is different. Most minerals at room temperature are incredibly low conductivity. With increasing temperature, different semi-conduction mechanisms start to dominate, such as the iron-dependent polaron conduction and water (structurally bound hydrogen) dependent proton conduction.
+Australia's transition to net-zero depends on finding new sources of critical minerals hidden beneath sedimentary cover. My work contributes to this by combining geophysical data, such as magnetotellurics, seismic tomography, and potential field methods, constrained by laboratory measurements, to better understand where these minerals form and how their systems come together.
 
-Revealing the relationships between mantle composition, tectonomagmatic history and electrical conductivity in Southern African lithosphere.
-======
 
-<img src="/images/mt_saf.png">
-<p>3D contour plot for values ≤1000 Ωm and ≥100 Ωm. BCC: Bushveld Complex Conductor, SKC: Southern Kaapvaal Conductor.</p>
+<img src="/images/website_mineral_systems.png">
+<p>The ingredients of a world-class deposit, after [McCuaig & Hronsky, 2014](https://doi.org/10.5382/SP.18.08).</p>
+
+World-class deposits are rare because they demand a coincidence of circumstances. You need a fertile source region, a lithospheric architecture that lets metals move, a transient event to remobilise them, and then the good fortune of being preserved rather than erased by later tectonics. My research approaches this from two directions. At the deep end, I use large regional geophysical datasets to map fertility (e.g, [Özaydın et al., 2024](https://doi.org/10.1029/2023GC011191), [Özaydın & Selway, 2022](https://doi.org/10.1029/2022GL099661), [Manassero, Özaydın, et al., 2024](https://doi.org/10.1029/2023JB028257)) and trace how it connects to lithospheric architecture and tectonomagmatic history, work that sits at the heart of the current ARC Discovery Project in southeast Australia. But mapping the deep plumbing system alone isn't enough, since a deposit's post-depositional history can obscure or destroy the very signatures we rely on to find it. This led me to start interpreting synthetic geophysical models through thermomechanical models ([Özaydın et al., 2026](https://doi.org/10.1130/G53957.1)), tracking not just the conditions that made a region fertile and gave it the right architecture, but also those that allowed a deposit to survive once it formed. At the other end, I characterise the tip of the mineral system directly, through high-resolution surveys and petrophysical constraints. Our recent Broken Hill study ([AlQahtani, Özaydın, et al., 2026](https://doi.org/10.1029/2026JB035666)) is a case in point, where a world-class deposit turned out to sit in resistive crust with no clear conductive link to depth, and later metamorphism may have erased any original connection.
+
+
+and a recent survey of the Broken Hill deposit that revealed a surprising result, the ore system sits in resistive rather than conductive crust, challenging a long-standing assumption used to guide mineral exploration.
+
+
+

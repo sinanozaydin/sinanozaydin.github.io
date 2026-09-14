@@ -64,4 +64,8 @@ Open Source Tools
 ====
 I develop open-source software for my research. `MATE` was the first, focusing on interpreting mantle MT models in terms of water content and mineralogy. `pide` is the more recent one, calculating conductivity and seismic velocity from temperature, pressure and composition using experimental data from the literature. You can use it to invert geophysical anomalies for composition, or to turn a thermomechanical model into synthetic MT, seismic, gravity and magnetic data. `SAnTex`, developed by Utpal Singh, calculates full elastic tensors and handles the seismic side.
 
+- MATE — https://github.com/sinanozaydin/MATE
+- pide — https://github.com/sinanozaydin/pide
+- SAnTex — https://github.com/utpal-singh/SAnTex
+
 All three are modular and open source, so anyone can adapt them to their own work. For more information, visit the [Software](https://sinanozaydin.github.io/software/) tab.

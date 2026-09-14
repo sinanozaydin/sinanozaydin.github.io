@@ -21,6 +21,8 @@ I am an Earth scientist with wide-ranging interests across geology, geophysics, 
 
 Please feel free to get in touch if there's anything you need, whether it's a research question, a potential collaboration, or an issue with one of my software tools. Please visit the other tabs ([Research](https://sinanozaydin.github.io/research/), [Publications](https://sinanozaydin.github.io/publications/), [Software](https://sinanozaydin.github.io/software/)) on this website for further information on my research interests and software.
 
+EMail: sinan.ozaydin@sydney.edu.au
+
 <img src="/images/website_photos.png">
 
 ---

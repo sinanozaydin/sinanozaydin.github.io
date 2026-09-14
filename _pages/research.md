@@ -50,8 +50,8 @@ My work on southern Africa took this on directly, comparing geochemical data fro
 
 <img src="/images/website_ear.png" style="width: 75%; display: block; margin: 0 auto;">
 
-
-
+Geodynamic Modelling to Constrain Geophysical Signatures
+=====
 Non-uniqueness is the thing that limits what we can say from geophysical data. Many different models fit the same measurements, and smoothing pushes the answer toward whatever is simplest rather than whatever is geologically sensible. Adding prior information helps, but the prior needs to come from somewhere defensible.
 
 Geodynamic models are a good candidate. They produce strain, temperature and pressure fields that are physically consistent by construction, so converting them into synthetic geophysical observables gives you a plausible answer to compare against. In our Geology paper ([Özaydın et al., 2026](https://doi.org/10.1130/G53957.1)) we did this for a pull-apart basin and found that strain sets where the conductors form, and that the rounded blobs we see in real inversions are probably thin shear zones the data can't resolve.
@@ -59,3 +59,9 @@ Geodynamic models are a good candidate. They produce strain, temperature and pre
 <img src="/images/g53957.1_f04.png" style="width: 75%; display: block; margin: 0 auto;">
 
 Where I want to take this is mineral systems. A deposit's geophysical signature is not just a record of how it formed but of everything that happened afterwards, and thermomechanical models let you follow both. The aim is to work out which tectonic histories preserve a signature and which erase it, so we know what we should actually be looking for.
+
+Open Source Tools
+====
+I develop open-source software for my research. `MATE` was the first, focusing on interpreting mantle MT models in terms of water content and mineralogy. `pide` is the more recent one, calculating conductivity and seismic velocity from temperature, pressure and composition using experimental data from the literature. You can use it to invert geophysical anomalies for composition, or to turn a thermomechanical model into synthetic MT, seismic, gravity and magnetic data. `SAnTex`, developed by Utpal Singh, calculates full elastic tensors and handles the seismic side.
+
+All three are modular and open source, so anyone can adapt them to their own work. For more information, visit the [Software](https://sinanozaydin.github.io/software/) tab.

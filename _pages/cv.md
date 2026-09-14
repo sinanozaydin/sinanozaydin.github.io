@@ -22,3 +22,9 @@ Education
 * PhD in Geophysics, Macquarie University, 2021
 * MSc in Geophysics, Boğaziçi University, 2017
 * BS in Geophysical Engineering, Istanbul Technical University, 2015
+
+Students
+====
+* Yahya AlQahtani - PhD co-advisor (2023-), University of Sydney.
+* Utpal Singh - PhD co-advisor (2023 -), University of Sydney.
+* Puqing Li - PhD co-advisor (2023 -), University of Sydney.
